@@ -166,6 +166,12 @@ input:not([type="checkbox"]) {
     border: 1px solid #f3f3f4;
     padding: 10px 16px;
 }
+input:not([type="checkbox"]):focus {
+    border-color: rgba(234,76,137,0.4);
+    background-color: #fff;
+    box-shadow: 0 0 0 4px rgb(234 76 137 / 10%);
+    --webkit-box-shadow: 0 0 0 4px rgb(234 76 137 / 10%);
+}
 
 input[type="password"]::placeholder {
     font-size: 1rem;
