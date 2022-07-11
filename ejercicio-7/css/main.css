@@ -22,8 +22,86 @@ body {
     width: 100%;
 }
 
+header.header {
+    padding: 2rem 1.4rem;
+    text-align: right;
+}
+
+.title {
+    font-size: 1.5rem;
+    margin: 2rem 0;
+}
+
+.buttons {
+    align-items: stretch;
+    display: flex;
+    height: 40px;
+    justify-content: flex-start;
+    gap: 1rem;
+}
+
+a {
+    text-decoration: none;
+}
+
+.btn {
+    border-radius: 0.3rem;
+    padding: 0.5rem 1rem;
+}
+
+a.btn.btn-google {
+    align-items: center;
+    background-color: #1a73e8;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 0;
+}
+a.btn.btn-google span {
+    padding: 0.5rem 2.4rem;
+}
+
+a.btn.btn-twitter {
+    background-color: #f2f2f2;
+}
+
+a picture {
+    height: 35px;
+    width: 35px;
+}
+
+a.btn-google picture {
+    align-items: center;
+    background-color: white;
+    border-radius: 0.25rem 0 0 0.25rem;
+    display: flex;
+    justify-content: center;
+    margin: 0 0.2rem;
+}
+
+.btn.btn-submit {
+    background-color: #ea4c89;
+    border: none;
+    color: white;
+    font-size: .9rem;
+    font-weight: 700;
+    padding: 0.8rem 2.4rem;
+}
+
+img.icon.icon-google {
+    width: 20px;
+    height: 20px;
+    border-radius: 0.25rem 0 0 0.25rem;
+}
+
+img.icon.icon-twitter {
+    width: 20px;
+    height: 20px;
+}
+
 .divisor {
     align-items: center;
+    color: #9e9ea7;
     display: flex;
     gap: 1rem;
     justify-content: center;
@@ -71,9 +149,6 @@ body {
     /* border: 1px dotted orangered; */
     width: 1rem;
 }
-.form-button {
-    text-align: center;
-}
 
 label {
     color: #0D0C22;
@@ -98,6 +173,10 @@ input[type="password"]::placeholder {
 
 label, input {
     display: block;
+}
+
+.footer {
+    margin: 1.4rem 0;
 }
 
 .footer p {
