@@ -82,3 +82,14 @@ Crea un nuevo documento HTML con el título "Ganando precisión con los selector
   - A través del encadenamiento de selectores, haz que el primer elemento de la primera lista tenga un tamaño de letra de 2rem
 
 **NOTA:** Entregables en el directorio 'ejercicio-4'
+
+### Sección 5 - Ejercicio 1:
+
+Crea un nuevo documento HTML con el título "Disposición de elementos en CSS"
+
+- Crea un nuevo fichero CSS e impórtalo en el documento HTML principal
+- Utiliza la disposición flex-box para crear una galería de 6 imágenes con los siguientes parámetros
+  - Las imágenes deben tener 300 píxeles de ancho
+  - Deben reagruparse (wrap) cuando el ancho del viewport cambia
+
+**NOTA:** Entregables en el directorio 'ejercicio-5'
