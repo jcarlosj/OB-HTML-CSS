@@ -15,7 +15,8 @@ Crea un nuevo documento HTML e implementa lo siguiente:
   - Cada elemento de la lista tiene que ser un enlace
   - El texto del enlace debe ser el título del vídeo
 
-**NOTA:** Entregables en el directorio 'ejercicio-0' 
+**NOTA:** Entregables en el directorio 'ejercicio-0'
+___
 
 ### Sección 2 - Ejercicio 1:
 
@@ -64,7 +65,7 @@ Crea un nuevo documento HTML que cumpla los siguientes parámetros:
   - El audio debe mostrar los controles, reproducirse automáticamente y en bucle
 
 **NOTA:** Entregables en el directorio 'ejercicio-3'
-
+___
 ### Sección 4 - Ejercicio 1:
 
 Crea un nuevo documento HTML con el título "Ganando precisión con los selectores en CSS"
@@ -82,7 +83,7 @@ Crea un nuevo documento HTML con el título "Ganando precisión con los selector
   - A través del encadenamiento de selectores, haz que el primer elemento de la primera lista tenga un tamaño de letra de 2rem
 
 **NOTA:** Entregables en el directorio 'ejercicio-4'
-
+___
 ### Sección 5 - Ejercicio 1:
 
 Crea un nuevo documento HTML con el título "Disposición de elementos en CSS"
@@ -93,7 +94,7 @@ Crea un nuevo documento HTML con el título "Disposición de elementos en CSS"
   - Deben reagruparse (wrap) cuando el ancho del viewport cambia
 
 **NOTA:** Entregables en el directorio 'ejercicio-5'
-
+___
 ### Sección 6 - Ejercicio 1:
 
 Crea un nuevo documento HTML con el título "Selectores, pseudo-clases y pseudo-elementos en CSS"
@@ -104,7 +105,7 @@ Crea un nuevo documento HTML con el título "Selectores, pseudo-clases y pseudo-
 - Utiliza los pseudo-elementos para cambiar el texto del botón a "¡Hecho!"
 
 **NOTA:** Entregables en el directorio 'ejercicio-6'
-
+___
 ### Sección 7 - Ejercicio 1:
 
 Replica el ejercicio del vídeo 3 de esta sesión y realiza el siguiente cambio:
@@ -117,4 +118,12 @@ Replica el ejercicio del vídeo 3 de esta sesión y realiza el siguiente cambio:
   - El fondo de los inputs cuando se hace hover será del color #454045
   - Los textos tendrán un color blanco
 
-  **NOTA:** Entregables en el directorio 'ejercicio-7'
+**NOTA:** Entregables en el directorio 'ejercicio-7'
+___
+### Sección 8 - Ejercicio 1:
+
+Crea un nuevo documento HTML con el título "Introducción a Bootstrap"
+
+- Utilizando la página oficial getbootstrap.com, añade la última versión de Bootstrap a este documento HTML
+
+**NOTA:** Entregables en el directorio 'ejercicio-8'
