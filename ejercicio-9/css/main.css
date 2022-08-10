@@ -1,0 +1,21 @@
+.container {
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+.button {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.btn-modern {
+    background: indigo;
+    border-radius: .4rem;
+    border: 1px solid indigo;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    padding: .6rem 1.4rem;
+    margin: .6rem;
+}
