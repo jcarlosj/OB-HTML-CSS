@@ -1,0 +1,32 @@
+/* * {
+    border: 1px dotted green;
+} */
+
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.main {
+    flex-grow: 1;
+    margin: 0.6em 0;
+}
+.sidebar {
+    display: flex;
+    gap: .6rem;
+    justify-content: center;
+    margin: 0.6em 0;
+    order: 1;
+}
+
+@media ( min-width: 640px ) {
+    .container {
+        flex-direction: row;
+    }
+    .sidebar {
+        flex-direction: column;
+        gap: initial;
+        min-width: 150px;
+        order: 0;
+    }
+}
