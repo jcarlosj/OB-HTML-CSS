@@ -13,9 +13,19 @@
     background: indigo;
     border-radius: .4rem;
     border: 1px solid indigo;
+    box-shadow: 2px 2px 2px 1px rgba( 20, 0, 34, 0.2 );
     color: white;
     font-size: 16px;
     font-weight: bold;
     padding: .6rem 1.4rem;
     margin: .6rem;
+    transition: all .4s ease;
+}
+
+.btn-modern:hover {
+    background: orange;
+    border: 1px solid orange;
+    box-shadow: 2px 2px 2px 1px rgba( 255, 165, 0, 0.2 );
+    color: black;
+    transform: translateY( -5px );
 }
